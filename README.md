@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Kumar!
+🚀 .NET Developer | ASP.NET MVC | C# | SQL | ADO.NET  
 
-<!--
-**sai-kumar-b/sai-kumar-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building scalable web applications  
+🔧 Tech Stack:  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver)  
 
-Here are some ideas to get you started:
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/your-link)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-kumar-b&show_icons=true&theme=dark)
+

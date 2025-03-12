@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sai Kumar!
-🚀 .NET Developer | ASP.NET MVC | C# | SQL | ADO.NET  
+🚀 .NET Developer | ASP.NET MVC | C# | SQL | ADO.NET   
 
 💡 Passionate about building scalable web applications  
 

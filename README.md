@@ -11,5 +11,3 @@
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kumar-burri)  
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-kumar-b&show_icons=true&theme=dark)
